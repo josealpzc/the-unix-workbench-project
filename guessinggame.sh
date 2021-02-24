@@ -17,5 +17,6 @@ function guessinggame {
   echo "Try again:"
   read response
  done
+ echo "Congratulations, that´s correct"
 }
 guessinggame
