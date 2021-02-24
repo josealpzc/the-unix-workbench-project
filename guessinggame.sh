@@ -2,7 +2,7 @@
 # File: guessinggame.sh
 
 function guessinggame {
- echo "Guess the number of files in the current directory"
+ echo "Guess the number of files in the current directory:"
  read response
  number_of_files=$( echo pwd | ls | wc -l )
 
