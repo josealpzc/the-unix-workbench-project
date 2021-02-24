@@ -1,4 +1,4 @@
-README.md
+README.md:
  touch README.md
  echo "#Guessinggame" > README.md
  echo | date >> README.md
